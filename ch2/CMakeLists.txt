@@ -1,5 +1,5 @@
 # define version
-cmake_minimum_required(VERSION 2.8)
+#cmake_minimum_required(VERSION 2.8)
 
 # define project name
 project( HelloSLAM )
