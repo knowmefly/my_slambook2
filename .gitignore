@@ -1,7 +1,8 @@
 # my filter
 *.exe
+*/build
 */build/
-
+build/
 
 
 # Prerequisites
