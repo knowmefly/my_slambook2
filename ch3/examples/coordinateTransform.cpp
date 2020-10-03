@@ -7,7 +7,8 @@
 using namespace std;
 using namespace Eigen;
 
-int main(int argc, char** argv) {
+//int main(int argc, char** argv) {
+int function_E(int argc, char** argv) {
   Quaterniond q1(0.35, 0.2, 0.3, 0.1), q2(-0.5, 0.4, -0.1, 0.2);
   q1.normalize();
   q2.normalize();
